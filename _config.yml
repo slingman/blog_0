@@ -20,9 +20,9 @@ footer-links:
   dribbble:
   email:
   facebook:
-  flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  flickr: https://www.flickr.com/photos/sling_flickr/
+  github: slingman/blog
+  instagram: s.l.i.n.g
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
